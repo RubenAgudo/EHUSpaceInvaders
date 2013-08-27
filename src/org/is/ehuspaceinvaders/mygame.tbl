@@ -1,0 +1,53 @@
+icons_map		final.gif		0	0	96	96	0	0
+icons_map2		navesAlien.gif	0	0	36	24	0	0
+icons_map3		naveHumana.gif	0	0	36	24	0	0
+icons_map4		Disparoaliado.gif	0	0	9	24	0	0
+icons_map5		Disparoalien.gif	0	0	9	24	0	0
+icons_map6		explosion.gif	0	0	36	24	0	0
+icons_map7		explosiongrande.gif	0	0	96	96	0	0
+
+balaaliada		ba	0	icons_map4	0		-
+balaenemiga		be	0	icons_map5	0		-
+final2			vf	0	icons_map	0		-
+navehumana		nh	0	icons_map3	0		-
+invader11		11	0	icons_map2	0		-
+invader12		12	0	icons_map2	1		-
+invader21		21	0	icons_map2	2		-
+invader22		22	0	icons_map2	3		-
+invader31		31	0	icons_map2	4		-
+invader32		32	0	icons_map2	5		-
+explosion1		e1	0	icons_map6	0		-
+explosion2		e2	0	icons_map6	1		-
+explosion3		e3	0	icons_map6	2		-
+explosion4		e4	0	icons_map6	3		-
+explosion5		e5	0	icons_map6	4		-
+explosion6		e6	0	icons_map6	5		-
+explosion7		e7	0	icons_map6	6		-
+explosion8		e8	0	icons_map6	7		-
+explosion9		e9	0	icons_map6	8		-
+explosion10		f0	0	icons_map6	9		-
+explosion11		f1	0	icons_map6	10		-
+explosion12		f2	0	icons_map6	11		-
+explosion13		f3	0	icons_map6	12		-
+explosion14		f4	0	icons_map6	13		-
+explosion15		f5	0	icons_map6	14		-
+explosion16		f6	0	icons_map6	15		-
+explosiong1		g1	0	icons_map7	0		-
+explosiong2		g2	0	icons_map7	1		-
+explosiong3		g3	0	icons_map7	2		-
+explosiong4		g4	0	icons_map7	3		-
+explosiong5		g5	0	icons_map7	4		-
+explosiong6		g6	0	icons_map7	5		-
+explosiong7		g7	0	icons_map7	6		-
+explosiong8		g8	0	icons_map7	7		-
+explosiong9		g9	0	icons_map7	8		-
+explosiong10		h0	0	icons_map7	9		-
+explosiong11		h1	0	icons_map7	10		-
+explosiong12		h2	0	icons_map7	11		-
+explosiong13		h3	0	icons_map7	12		-
+explosiong14		h4	0	icons_map7	13		-
+explosiong15		h5	0	icons_map7	14		-
+explosiong16		h6	0	icons_map7	15		-
+
+explosion		explosion1;explosion2;explosion3;explosion4;explosion5;explosion6;explosion7;explosion8;explosion9;explosion10;explosion11;explosion12;explosion13;explosion14;explosion15;explosion16	0.1		false
+explosiong		explosiong1;explosiong2;explosiong3;explosiong4;explosiong5;explosiong6;explosiong7;explosiong8;explosiong9;explosiong10;explosiong11;explosiong12;explosiong13;explosiong14;explosiong15;explosiong16	0.1		false
